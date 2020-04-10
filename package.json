@@ -1,0 +1,17 @@
+{
+  "name": "tarea6",
+  "version": "1.0.0",
+  "description": "Tarea 6 ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo 'hoola'",
+    "start": "nodemon ./src/index.js"
+  },
+  "author": "Josué Galeano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.3"
+  }
+}
